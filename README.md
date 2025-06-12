@@ -120,10 +120,7 @@ Supported connector types include:
 
 ![Box](images/GX_16_8_pin.jpg)
 
-
-![Box](images/GX_16_10_pin.jpg)
-
-> 🛠 Ensure all connectors are **securely inserted** to prevent intermittent signal or power loss.
+>  Ensure all connectors are **securely inserted** to prevent intermittent signal or power loss.
 
 ---
 
