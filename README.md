@@ -1,5 +1,4 @@
-
-
+# This repository contains everything you need about controllers and consoles.
 
 <details>
 <summary><strong>NODEMCU-V2 CP2102 2-Button Controller Guide</strong></summary>
