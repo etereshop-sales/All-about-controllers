@@ -148,5 +148,18 @@ The controller is equipped with **two control buttons**:
 </details>
 
 ---
-   
 
+<details>
+<summary><strong>Instructions for using DMX controllers</strong></summary>
+
+
+</details>
+
+---
+
+<details>  
+<summary><strong>Instructions for using the 15-button console with OLED screen and battery</strong></summary>
+
+[15 button remote](https://youtu.be/plJmO6gk3sM?si=G4Bidx0-QKFGdW-2)
+
+</details>
