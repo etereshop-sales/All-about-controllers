@@ -1,6 +1,10 @@
-# NODEMCU-V2 CP2102 2-Button Controller Guide
 
-This document provides detailed instructions for setting up and using the **NODEMCU-V2 CP2102** controller. It includes how to manage the Micro SD card, connect the controller, use control buttons, and update files.
+
+
+<details>
+<summary><strong>NODEMCU-V2 CP2102 2-Button Controller Guide</strong></summary>
+
+This part provides detailed instructions for setting up and using the **NODEMCU-V2 CP2102** controller. It includes how to manage the Micro SD card, connect the controller, use control buttons, and update files.
 
 ---
 
@@ -140,5 +144,9 @@ The controller is equipped with **two control buttons**:
 * Pressing a button **once** changes the current effect by **one step** (either forward or backward depending on the button pressed).
 
 ![Box](images/demonstration.jpg)
+
+</details>
+
+---
    
 
