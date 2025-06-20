@@ -160,6 +160,15 @@ The controller is equipped with **two control buttons**:
 <details>  
 <summary><strong>Instructions for using the 15-button console with OLED screen and battery</strong></summary>
 
+## 1.	Assembly:
+
+●	Install the antenna and use a PH00 screwdriver to unscrew the screw on the cover.
+
+![Box](images/demonstration.jpg)
+
+
+
+
 [15 button remote](https://youtu.be/plJmO6gk3sM?si=G4Bidx0-QKFGdW-2)
 
 </details>
