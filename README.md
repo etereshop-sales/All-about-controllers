@@ -152,6 +152,9 @@ The controller is equipped with **two control buttons**:
 <details>
 <summary><strong>Instructions for using DMX controllers</strong></summary>
 
+## Description
+
+
 
 </details>
 
@@ -164,11 +167,40 @@ The controller is equipped with **two control buttons**:
 
 ●	Install the antenna and use a PH00 screwdriver to unscrew the screw on the cover.
 
-![Box](images/demonstration.jpg)
+![Box](images/1.jpg)
 
+![Box](images/2.jpg)
 
+![Box](images/3.jpg)
 
+°	Take the battery boxes and insert the batteries into the, observing the polarity (the last part is a minus, a slightly convex part is a plus).
+**ATTENTION!** If you confuse the polarity, the box can get very hot and melt, it is possible to get burned. After installing the battery, close the lid and tighten the screw back.
 
-[15 button remote](https://youtu.be/plJmO6gk3sM?si=G4Bidx0-QKFGdW-2)
+![Box](images/4.jpg)
+
+![Box](images/5.jpg)
+
+![Box](images/6.jpg)
+
+●	The power button is on the side.
+
+![Box](images/7.jpg)
+
+![Box](images/8.jpg)
+
+## 2.	Terms of Use:
+
+![Box](images/9.png)
+
+**●	IT IS IMPORTANT NOT TO TOUCH THE FIRST 3 BUTTONS IN THE TOP ROW ON THE LEFT!**
+
+![Box](images/10.jpg)
+
+●	The two buttons on the top of the row on the left indicate the direction of backward and forward.
+The blue and yellow rows indicate the effect numbers, the number will be displayed on the screen (the numbers are marked below). After the 10th effect is reached, the switch starts with the green forward button (in case there are more than 10 effects).
+
+![Box](images/11.jpg)
+
+[Video tutorial: 15 button remote](https://youtu.be/plJmO6gk3sM?si=G4Bidx0-QKFGdW-2)
 
 </details>
