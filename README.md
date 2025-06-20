@@ -154,7 +154,70 @@ The controller is equipped with **two control buttons**:
 
 ## Description
 
+![Box](images/Pic1.jpg)
 
+The controller is a small box. Each controller has its own number of connectors, depending on the product.
+
+![Box](images/Pic2.jpg)
+connectors
+
+An encoder and 2 buttons are used to control the controller.
+LAN and XLR outputs are located on one of the side panels.
+
+![Box](images/Pic3.jpg)
+LAN and XLR outputs
+
+On the second panel there are 2 switches, the output of SD cards, the output of connectors.
+
+![Box](images/Pic4.jpg)
+SD card output and switches
+
+## Configuring the DMX control
+
+In order to configure the controller to work on DMX, you should do the following:
+1.	Connect the controller to the product
+2.	Put the switches on the panel in position 2 (Fig.5)
+3.	Connect the XLR wire to the needed XLR output
+4.	Download the corresponding file to the SD card of the controller marked with the number 1 config.txt (Fig.6), as well as files with effects (if they are not there).
+
+![Box](images/Pic5.jpg)
+position of the switches
+
+![Box](images/Pic6.jpg)
+config.txt file  for DMX - for the LED cube
+
+> Note: each product has its own folder with all the files in which all the necessary files are located.
+
+Configure the controller to the corresponding  DMX address.
+
+To configure the DNS address on the controller, follow these steps:
+1.	Press the encoder 1 time. This action will bring the screen out of the sleep state
+2.	Press the encoder again to enter the menu.
+
+![Box](images/Pic7.jpg)
+menu
+
+3.	Select  "DMX Address" and click again on the encoder. With these actions, we get to the settings section for the DMX address.
+
+![Box](images/Pic8.jpg)
+DMX address settings menu
+
+To move through the menu, we use the encoder by turning it clockwise or counterclockwise. The selected position is highlighted with a white background.
+Go to the DMX Address position and click on the encoder. Twisting the encoder, we select the address we need.
+Note: OFF - disconnects the transmission.
+Click on the encoder again to fix the selected address.
+Turning the encoder, click "SAVE" and click on the encoder again.
+A save window will appear after which the start screen will appear again
+
+![Box](images/Pic9.jpg)
+saving screen
+
+![Box](images/Pic5.jpg)
+start screen
+
+Then you can send effect numbers using your own equipment to the selected DMX address. On the screen, in point "Effect", the number of the effect that is currently being played will be displayed.
+Note: 255 is the number of the BLACKOUT effect.
+Note: The screen and encoder are only used for DMX settings. Also in the settings menu, in addition to the address, you can adjust the screen contrast and screen timeout.
 
 </details>
 
