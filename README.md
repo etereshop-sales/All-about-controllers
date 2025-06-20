@@ -20,6 +20,11 @@ The control system includes the following components:
 <em>Micro SD card</em>
 ![Box](images/MicroSDcard.jpg)
 
+First of all, please use a memory card with a capacity of up to 32 GB—anything larger won’t work. It should also be a Class 10 card, meaning a high-speed one. Once you’ve purchased the card, you’ll need to format it to the FAT32 file system: [Video](https://www.youtube.com/watch?v=M70LqYyvp_A)
+
+The Config.txt file contains the settings. Without this file, the helmet will blink red. It will also blink red if it can’t read the card (which is what happened with your 64 GB card), or if there’s an issue with the controller that prevents it from reading the card at all
+
+
 <em>An example of a connector from the possible</em>
 ![Box](images/Control_buttons.jpg)
 
