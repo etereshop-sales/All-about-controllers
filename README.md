@@ -154,22 +154,23 @@ The controller is equipped with **two control buttons**:
 
 ## Description
 
-![Box](images/Pic1.jpg)
+![Box](images/Pic1.png)
 
 The controller is a small box. Each controller has its own number of connectors, depending on the product.
 
-![Box](images/Pic2.jpg)
+![Box](images/Pic2.png)
+
 connectors
 
 An encoder and 2 buttons are used to control the controller.
 LAN and XLR outputs are located on one of the side panels.
 
-![Box](images/Pic3.jpg)
+![Box](images/Pic3.png)
 LAN and XLR outputs
 
 On the second panel there are 2 switches, the output of SD cards, the output of connectors.
 
-![Box](images/Pic4.jpg)
+![Box](images/Pic4.png)
 SD card output and switches
 
 ## Configuring the DMX control
@@ -180,10 +181,10 @@ In order to configure the controller to work on DMX, you should do the following
 3.	Connect the XLR wire to the needed XLR output
 4.	Download the corresponding file to the SD card of the controller marked with the number 1 config.txt (Fig.6), as well as files with effects (if they are not there).
 
-![Box](images/Pic5.jpg)
+![Box](images/Pic5.png)
 position of the switches
 
-![Box](images/Pic6.jpg)
+![Box](images/Pic6.png)
 config.txt file  for DMX - for the LED cube
 
 > Note: each product has its own folder with all the files in which all the necessary files are located.
@@ -194,12 +195,14 @@ To configure the DNS address on the controller, follow these steps:
 1.	Press the encoder 1 time. This action will bring the screen out of the sleep state
 2.	Press the encoder again to enter the menu.
 
-![Box](images/Pic7.jpg)
+![Box](images/Pic7.png)
+
 menu
 
 3.	Select  "DMX Address" and click again on the encoder. With these actions, we get to the settings section for the DMX address.
 
-![Box](images/Pic8.jpg)
+![Box](images/Pic8.png)
+
 DMX address settings menu
 
 To move through the menu, we use the encoder by turning it clockwise or counterclockwise. The selected position is highlighted with a white background.
@@ -209,10 +212,11 @@ Click on the encoder again to fix the selected address.
 Turning the encoder, click "SAVE" and click on the encoder again.
 A save window will appear after which the start screen will appear again
 
-![Box](images/Pic9.jpg)
+![Box](images/Pic9.png)
+
 saving screen
 
-![Box](images/Pic5.jpg)
+![Box](images/Pic5.png)
 start screen
 
 Then you can send effect numbers using your own equipment to the selected DMX address. On the screen, in point "Effect", the number of the effect that is currently being played will be displayed.
